@@ -2,7 +2,7 @@
 
 A data-driven public health analytics project that combines **descriptive statistics**, **inferential statistics**, **hypothesis testing**, and **data visualization** to uncover health-related insights from a synthetic healthcare dataset.
 
-![Age vs BMI](assets/age_vs_bmi.png)
+![Age vs BMI](screenshot.png)
 
 ## 📌 Project Overview
 
